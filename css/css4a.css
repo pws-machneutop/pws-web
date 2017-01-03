@@ -1,0 +1,31 @@
+body {
+    background: url(http://werensite.nl/webdesign/snow.jpg);
+}
+
+.pone {
+    background-color: grey;
+}
+
+.ptwo {
+    background-color: blue;
+    color: yellow;
+}
+
+.pthree {
+    background-color: yellow;
+    color: white;
+    font-size: 30pt;
+    font-style: italic;
+}
+
+.pfour {
+    text-decoration: underline;
+    color: blue;
+    background-color: pink;
+}
+
+.pfive {
+    font-size: 100px;
+    color: blue;
+    background: url(http://werensite.nl/smurf.jpg);
+}

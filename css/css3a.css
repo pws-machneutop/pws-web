@@ -1,0 +1,15 @@
+@charset "utf-8";
+            body {
+                background-color: #000099;
+            }
+            p {
+                background-color: #ffff00;
+                font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+                font-size: 1em;
+            }
+            h1 {
+                color: #000000;
+            }
+            .bod {
+                background-color: #000099;
+            }

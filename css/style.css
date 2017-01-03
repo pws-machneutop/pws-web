@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+		background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+		url(https://raw.githubusercontent.com/Swordfish90/cool-retro-term/master/app/qml/frames/images/screen-frame.png);
+		background-color: black;
+		background-size: 100% 100%;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+#terminal {
+	position: absolute;
+	top: 12%;
+	left: 10%;
+	right: 10%;
+	bottom: 12%;
+	overflow: auto;
+}
+
+@font-face {
+    font-family: perfdos;
+    src: url('../font/perfdos.ttf') format('truetype');
+	
+}
+
+html { overflow-y: auto; height: 100vh;}
+
+input:focus {
+    outline-width: 0;
+}
+
+a:link {
+	color: #a8a8a8;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #a8a8a8;
+}
+a:hover {
+	text-decoration: none;
+	color: #a8a8a8;
+}
+a:active {
+	text-decoration: none;
+	color: #a8a8a8;
+}
+
+#starttext, #c, #j, #dirlist {
+	font-family: perfdos;
+	margin-top: 20px;
+}
+
+.paway {
+	padding-left: 0.5cm;
+}
+
+.paway2 {
+	padding-left: 1.5cm;
+}
+
+.paway3 {
+	padding-left: 2.5cm;
+}
+
+body,td,th {
+	color: #a8a8a8;
+	
+}
+
+.space {
+	white-space:pre-wrap;
+}
+
+.imgres {
+	max-width:100%; 
+	max-height:100%;
+}
+
+.dostext {
+	font-family: perfdos;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.tab {
+	display: block;
+	margin-left: 4em;
+}
+
+#menu {
+  font-family: perfdos;
+  font-size: 12pt;
+  background: transparent;
+  border: none;
+  width: 100%;
+  color: #a8a8a8;
+}
+
+#josscapeurl {
+	font-family: perfdos;
+  font-size: 12pt;
+  background: transparent;
+ 
+  color: #a8a8a8;
+}
+

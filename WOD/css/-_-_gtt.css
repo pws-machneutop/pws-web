@@ -1,0 +1,144 @@
+.version._____gtt /* version checker */
+{
+	color: #000011;
+	background-color: #3345D7;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+	background: -webkit-gradient(linear, left center, right center, from(#FFFFFF),color-stop(100%, #4E94FF));
+	background: -webkit-linear-gradient(left,#FFFFFF ,#4E94FF 100%);
+	background: -o-linear-gradient(left,#FFFFFF ,#4E94FF 100%);
+	background: linear-gradient(to right,#FFFFFF ,#4E94FF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#FF4E94FF, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FF4E94FF', GradientType=1)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 759px;
+	min-height: 1011.6428710937494px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-left: 9px;
+	padding-top: 12px;
+	padding-bottom: 0px;
+}
+
+#u830
+{
+	z-index: 2;
+	width: 750px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u940-4
+{
+	z-index: 4;
+	width: 456px;
+	min-height: 200px;
+	background-color: transparent;
+	line-height: 58px;
+	font-size: 48px;
+	color: #1164BC;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	margin-left: 147px;
+	position: relative;
+}
+
+#u941-6
+{
+	z-index: 8;
+	width: 296px;
+	min-height: 87px;
+	background-color: transparent;
+	color: #1164BC;
+	line-height: 60px;
+	font-size: 50px;
+	text-align: center;
+	margin-left: 227px;
+	position: relative;
+}
+
+#u942-4
+{
+	z-index: 14;
+	width: 456px;
+	min-height: 57px;
+	background-color: transparent;
+	line-height: 43px;
+	font-size: 36px;
+	color: #0E56A2;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	margin-left: 147px;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u943-4
+{
+	z-index: 18;
+	width: 456px;
+	min-height: 83px;
+	background-color: transparent;
+	color: #1164BC;
+	line-height: 60px;
+	font-size: 50px;
+	text-align: center;
+	margin-left: 147px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u961-4
+{
+	z-index: 22;
+	width: 151px;
+	min-height: 23px;
+	background-color: transparent;
+	margin-left: 608px;
+	margin-top: 18px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
