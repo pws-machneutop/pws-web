@@ -116,10 +116,12 @@ body,td,th {
 }
 
 #title-pws {
-	font-size: 40pt;
+	font-size: 70pt;
+	margin: auto;
 		
 }
 
 #dostext-pws {
 	color: white;
+	font-family: perfdos;
 }
