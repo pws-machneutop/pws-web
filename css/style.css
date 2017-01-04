@@ -146,3 +146,11 @@ body,td,th {
 	text-align: center;
 	background-color: gray;
 }
+
+#names-pws {
+	color: white;
+	font-family: perfdos;
+	font-size: 20pt;
+	width: 100%;
+	text-align: center;
+}
