@@ -117,8 +117,8 @@ body,td,th {
 
 #title-pws {
 	font-size: 70pt;
-	margin: auto;
-		
+	width: 100%;
+	text-align: center;
 }
 
 #dostext-pws {
