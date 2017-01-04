@@ -111,3 +111,15 @@ body,td,th {
   color: #a8a8a8;
 }
 
+.bg-pws {
+	background-color: blue;
+}
+
+#title-pws {
+	font-size: 40pt;
+		
+}
+
+#dostext-pws {
+	color: white;
+}
