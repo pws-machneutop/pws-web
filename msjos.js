@@ -54,7 +54,7 @@ function loadPlugins() {
 	command.add("css9", function() { window.open("css9.html", "_blank"); }, "Opent opdracht 3");
 	command.add("goegel", function() { window.open("http://www.google.com", "_blank"); }, "Opent Google");
 	command.add("go64", function() { window.open("/go64/c64.html"); }, "Opent c64");
-	command.add("pws", function() { window.open("/pws/pws.html"); }, "Opent pws");
+	command.add("pws", function() { window.open("/pws/pws.html","_self"); }, "Opent pws");
 	command.add("martin_marnix_boudewijn", function() { window.open("http://maximvandenberg.werenict.nl/", "_blank"); }, "Opent maxim's pagina");
 }
 

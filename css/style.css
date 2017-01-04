@@ -27,6 +27,12 @@ body {
 	
 }
 
+@font-face {
+    font-family: upheavalpro;
+    src: url('../font/UpheavalPro.ttf') format('truetype');
+	
+}
+
 html { overflow-y: auto; height: 100vh;}
 
 input:focus {
@@ -116,7 +122,10 @@ body,td,th {
 }
 
 #title-pws {
-	font-size: 80pt;
+	margin-top: 5%;
+	color: white;
+	font-family: upheavalpro;
+	font-size: 175pt;
 	width: 100%;
 	text-align: center;
 }
@@ -124,4 +133,16 @@ body,td,th {
 .dostext-pws {
 	color: white;
 	font-family: perfdos;
+}
+
+#options-pws {
+	margin-top: 5%;
+	margin-bottom: 2%;
+	padding: 0.5%;
+	color: white;
+	font-family: perfdos;
+	font-size: 20pt;
+	width: 100%;
+	text-align: center;
+	background-color: gray;
 }
