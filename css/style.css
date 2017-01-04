@@ -121,7 +121,7 @@ body,td,th {
 	text-align: center;
 }
 
-#dostext-pws {
+.dostext-pws {
 	color: white;
 	font-family: perfdos;
 }
