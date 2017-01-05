@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-		background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+		/*background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),*/
 		url(https://raw.githubusercontent.com/Swordfish90/cool-retro-term/master/app/qml/frames/images/screen-frame.png);
 		background-color: black;
 		background-size: 100% 100%;
