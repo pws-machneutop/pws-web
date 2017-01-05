@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 
 body {
@@ -142,9 +142,10 @@ body,td,th {
 	color: white;
 	font-family: perfdos;
 	font-size: 20pt;
-	width: 100%;
+	width: 95%;
 	text-align: center;
 	background-color: gray;
+    box-shadow: 10px 10px 0px black;
 }
 
 #names-pws {
@@ -153,4 +154,9 @@ body,td,th {
 	font-size: 20pt;
 	width: 100%;
 	text-align: center;
+}
+
+.reppic {
+    width: 70%;
+    margin: auto;
 }
