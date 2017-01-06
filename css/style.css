@@ -89,7 +89,6 @@ body,td,th {
 
 .dostext {
 	font-family: perfdos;
-	font-size: 20pt;
 }
 
 .italic {
@@ -134,7 +133,6 @@ body,td,th {
 .dostext-pws {
 	color: white;
 	font-family: perfdos;
-	font-size: 20pt;
 }
 
 #options-pws {
