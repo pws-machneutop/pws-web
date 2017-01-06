@@ -168,3 +168,7 @@ body,td,th {
 	box-shadow: 10px 10px 0px black;
 	padding: 1%;
 }
+
+.mtop {
+	margin-top: 1%;
+}
