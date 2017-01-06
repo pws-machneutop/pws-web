@@ -12,14 +12,14 @@ body {
     display: none; 
 }
 
-#terminal {
+/*#terminal {
 	position: absolute;
 	top: 12%;
 	left: 10%;
 	right: 10%;
 	bottom: 12%;
 	overflow: auto;
-}
+}*/
 
 @font-face {
     font-family: perfdos;
